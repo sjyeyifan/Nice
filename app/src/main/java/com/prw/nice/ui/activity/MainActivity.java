@@ -1,4 +1,4 @@
-package com.prw.nice.ui;
+package com.prw.nice.ui.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;

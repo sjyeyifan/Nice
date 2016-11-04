@@ -3,9 +3,9 @@ package com.prw.nice.presenter;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 
-import com.prw.nice.base.BaseApplication;
+import com.prw.nice.app.BaseApplication;
 import com.prw.nice.model.ServerAPI;
-import com.prw.nice.ui.MainActivity;
+import com.prw.nice.ui.activity.MainActivity;
 
 import nucleus.presenter.RxPresenter;
 import rx.Observable;
